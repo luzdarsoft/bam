@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>loading.png</file>
+        <file>noPreviewAvaible.png</file>
+    </qresource>
+</RCC>
